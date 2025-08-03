@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.navbar {
+    background-color: #b30000;
+}
+
+.navbar a, .navbar-brand {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #b30000;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #990000;
+}
+
+.card {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
